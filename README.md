@@ -1,0 +1,2 @@
+# PHP Loose Comparison Pitfall
+This example demonstrates a common error in PHP related to loose comparison.  Loose comparison (==) does not check for type, leading to potential unexpected behavior.  The provided example showcases this issue with a simple function and highlights the safer, strict comparison (===).
